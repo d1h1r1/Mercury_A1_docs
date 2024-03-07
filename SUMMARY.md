@@ -31,10 +31,10 @@
     * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
     * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
-    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
-  * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
-    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/320m5/README.md)
+    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-myblockly/README.md)
     * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
+  * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
+    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
 
 * [6 SDK Development](6-SDKDevelopment/README.md)
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)

@@ -117,7 +117,7 @@ source devel/setup.bash
 
 **Q: After compilation is completed, why does the following error appear when running the launch command in a new terminal?**
 
- <img src =../image/17.4.3-1.png
+ <img src =../../resources/3-UserNotes/image/17.4.3-1.png
  align = "center">
 
 - A1: The system does not add ROS environment variables, so every time you open a new terminal, you must source:
@@ -136,3 +136,6 @@ source ~/.bashrc
 ```
 
 - A3: It may be that the file name in the command is inconsistent with the actual file name in the mycobot_ros package. Please check carefully whether the command is correct.
+
+----
+[← Previous Section](driver.md#) | [Next Chapter →](hardware.md)

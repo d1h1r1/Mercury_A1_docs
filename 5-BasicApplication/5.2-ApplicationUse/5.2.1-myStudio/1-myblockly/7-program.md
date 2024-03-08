@@ -4,7 +4,7 @@ In this chapter, we learn to use the Run panel to debug our code and implement t
 
 
 
-Edit a program that controls the color change of the LED light at the end of the robotic arm
+Edit a program that controls the color change of the LED light at the end of the robotic arm.
 
 <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\7\1.png"  />
 

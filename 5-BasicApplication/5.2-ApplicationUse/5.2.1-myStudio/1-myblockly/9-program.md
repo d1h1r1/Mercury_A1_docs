@@ -6,7 +6,7 @@ In this chapter, we learn to use the Run panel to debug our code and implement t
 
 Edit a program that controls the color change of the LED light at the end of the robotic arm.
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\7\1.png"  />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\program\1.png"  />
 
 
 
@@ -14,13 +14,13 @@ Edit a program that controls the color change of the LED light at the end of the
 
 Click the `Run` button. When the run panel pops up, click the `Pause button` immediately. The program will pause after executing the first instruction `time.sleep(5)`
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\7\2.png"  />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\program\2.png"  />
 
 
 
 The program has been paused. The next instruction to be executed `mc.set_color(255,0,0)` has appeared
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\7\3.png"  />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\program\3.png"  />
 
 - at this time:
 

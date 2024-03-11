@@ -14,7 +14,7 @@ This chapter learns to use chatGPT to generate building blocks
 
 - Click the `chatGPT` button to open the GPT panel
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\1.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\1.png" />
 
 
 
@@ -25,9 +25,9 @@ This chapter learns to use chatGPT to generate building blocks
 
   > If you don't have an API key, you can click the `Get API Key`button below to jump to the openAI official website to create and get an API Key
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\2.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\2.png" />
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\3.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\3.png" />
 
 
 
@@ -43,9 +43,9 @@ This chapter learns to use chatGPT to generate building blocks
 
 - Click `ChatGPT` and try to enter the command: move joint 1  to the 30 degree position.
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\4.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\4.png" />
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\5.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\5.png" />
 
 
 
@@ -53,14 +53,14 @@ This chapter learns to use chatGPT to generate building blocks
 
 - Click the `Generate` button and wait for chatGPT to generate code
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_btn.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\generate_btn.png" />
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_generate.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\waiting_generate.png" />
 
 
 - Successfully generated code
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_success.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\generate_success.png" />
 
 
 
@@ -72,11 +72,11 @@ This chapter learns to use chatGPT to generate building blocks
 
 - click  `Record` button(Require microphone permission from the system)
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_btn.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\record_btn.png" />
 
   Recording！Now speak something(e.g.move joint 1 to a 30 degree position)
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\recording.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\recording.png" />
 
 
 
@@ -84,11 +84,11 @@ This chapter learns to use chatGPT to generate building blocks
 
 - After speaking the instructions, click the `Stop Record` button,and waiting for a response from chatGPT.
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_record_response.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\waiting_record_response.png" />
 
   Speech recognition successful.Get a response from chatGPT.
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_response.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\chatGPT\record_response.png" />
 
 
 

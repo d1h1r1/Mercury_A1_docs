@@ -13,13 +13,13 @@
   * [2.4 Electronic Parameters](2-ProductFeature/2.4-ElectricalCharacteristicParameter.md)
   * [2.5 Coordinate System](2-ProductFeature/2.5-CoordinateSystem.md)
 
-* [3 User Notes](3-UserNotes/REMADE.md) <br>
+* [3 User Notes](3-UserNotes/3-UserNotes.md) <br>
   * [3.1 Safety Instructions](3-UserNotes/3.1-SafetyInstruction.md)
   * [3.2 Transport and Storage](3-UserNotes/3.2-TransportandStorage.md)
   * [3.3 Maintenance and Care](/3-UserNotes/3.3-MaintenanceandCare.md)
   * [3.4 FAQs](3-UserNotes/3.4-FAQsandSolutions.md)
 
-* [4 First Install and Use](4-FirstInstallAndUse/README.md)
+* [4 First Install and Use](4-FirstInstallAndUse/4-FirstInstallAndUse.md)
   * [4.1 Product Standard List](4-FirstInstallAndUse/4.1-ProductStandardList.md)
   * [4.2 Product Unboxing Guide](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
@@ -31,10 +31,10 @@
     * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
     * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
-    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
-  * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
-    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/320m5/README.md)
+    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-myblockly/README.md)
     * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
+  * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
+    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
 
 * [6 SDK Development](6-SDKDevelopment/README.md)
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)
@@ -69,6 +69,6 @@
   * [8.4 System Information](8-FilesDownload/8.4-SystemInformation.md)
   * [8.5 Publicity Material](/8-FilesDownload/8.5-PublicityMaterial.md)
 
-* [9 About Us](9-AboutUs/README.md)
+* [9 About Us](9-AboutUs/9-AboutUs.md)
   * [9.1 Elephant Robotics](9-AboutUs/9.1-company.md)
   * [9.2 Contact us](9-AboutUs/9.2-contact.md)

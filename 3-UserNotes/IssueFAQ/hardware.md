@@ -11,9 +11,9 @@
   4. Modify each parameter configuration in the `pid_read_write.py` file according to the servo number. The parameter serial number corresponds to the serial number displayed in the picture one-to-one.
   5. Run the modified code.
 
-   ![demo.jpg](../image/demo.jpg)
+   ![demo.jpg](../../resources/3-UserNotes/image/demo.jpg)
 
-   ![280.png](../image/280.png)
+   ![280.png](../../resources/3-UserNotes/image/280.png)
 
   Note: Joint parameters for each robot arm are not uniform and need to be compared and modified according to the corresponding robot arm model.
 
@@ -72,3 +72,6 @@
 **Q: How to fix the USB camera at the end of the robotic arm?**
 
 - A: It needs to be fixed with a flange, which can be purchased independently.
+
+----
+[← Previous Section](software.md#) | [Next Chapter →](../../4-FirstInstallAndUse/4-FirstInstallAndUse.md)

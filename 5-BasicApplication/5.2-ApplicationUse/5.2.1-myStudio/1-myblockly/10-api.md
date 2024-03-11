@@ -366,14 +366,13 @@
 
 **Set Coord**
 
-- **Prototype**：`send_coords（coords,speed,mode）`
+- **Prototype**：`send_coords（coords,speed）`
 
 - **Interface Description**：set coords
 
 - **Params**
 - `coords`：coord（`List[float]`）
    - `speed`: (`int`) 0 ~ 100
-   - `mode`: (`int`): `0` - angle（default），`1` - liner
 
 
 

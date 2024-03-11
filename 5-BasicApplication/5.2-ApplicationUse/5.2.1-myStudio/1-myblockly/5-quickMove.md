@@ -8,19 +8,19 @@
 
 **第一步：**确保已连接机械臂
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\1.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\1.png" />
 
 
 
 **第二步：**点击**快速移动**按钮，打开 **快速移动** 面板，等待机器人数据返回
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\2.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\2.png" />
 
 
 
 数据返回如下（如果没有数据，请检查是否已连接机械臂，机械臂是否正常）
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\3.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\3.png" />
 
 
 
@@ -28,7 +28,7 @@
 
 **第三步：**尝试点击`-`  / `+`按钮控制机械臂的不同关节
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\4.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\4.png" />
 
 
 
@@ -37,4 +37,4 @@
 
 ---
 
-[← Previous Page](./3-littleCase.md) | [Next Page →](./5-chatGPT.md)
+[← Previous Page](./4-autofill.md) | [Next Page →](./6-useCoords.md)

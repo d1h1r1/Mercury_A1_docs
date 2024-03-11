@@ -10,13 +10,15 @@
 
 
 
-![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\1.png)
+![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\1.png)
 
-![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\2.png)
+![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\3d_view.png)
 
 
 
-点击 3D视图面板的 `->` 按钮，可以关闭 3D视图面板
+- 1：关闭三维视图面板：单击三维视图面板的“>>”按钮关闭三维视图。
+- 2：点击四个按钮可以切换摄像头的位置。
+- 3：未连接到机器时，机器人的角度和坐标信息默认设置为零，连接到机器后会自动获取数据。
 
 
 
@@ -26,13 +28,13 @@
 
 - 打开工具箱分类 `角度和坐标`，拖动`设置全角度`积木块到工作区；这个积木块用于设置机械臂的角度值，当角度值全为零时，代表控制机械臂回到零点；速度默认为 20；
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\3.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\3.png" style="zoom:150%;" />
 
 
 
 
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\4.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\4.png" style="zoom:150%;" />
 
 
 
@@ -40,13 +42,13 @@
 
 
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\5.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\5.png" style="zoom:150%;" />
 
 
 
 
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\6.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\6.png" style="zoom:150%;" />
 
 
 
@@ -56,15 +58,15 @@
 
 - 打开工具箱分类 `角度和坐标`，拖动`设置全角度`积木块到工作区；设置 J1 为 20；
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\7.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\7.png" style="zoom:150%;" />
 
 - 打开工具箱分类 `时间`，拖动`睡眠`积木块到工作区；并设置睡眠时间为 3 秒；
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\8.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\8.png" style="zoom:150%;" />
 
 - 打开工具箱分类 `角度和坐标`，拖动`设置全角度`积木块到工作区，不改变任何参数；
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\9.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\9.png" style="zoom:150%;" />
 
 
 
@@ -95,18 +97,18 @@ myBlockly 支持 工作区的保存和加载
 
 - 点击`文件`按钮，出现一个下拉菜单
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\10.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\10.png" />
 
 
 
 - 点击 `保存` 按钮后会出现一个弹窗，点击其中的`保存工作区`按钮
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\11.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\11.png" />
 
 
 
 - 选择保存的路径，点击`保存`按钮，即可保存
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\12.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\12.png" />
 
 
 
@@ -119,18 +121,18 @@ myBlockly 支持 工作区的保存和加载
 
 
 - 点击`文件`按钮，出现一个下拉菜单
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\10.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\10.png" />
 
 
 
 - 点击 `新建工作区` 按钮，会弹出一个警告框，点击`确认` 即可
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\13.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\13.png" />
 
 
 
 - 新建完成
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\14.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\14.png" />
 
 
 
@@ -145,21 +147,21 @@ myBlockly 支持 工作区的保存和加载
 
 - 点击 `打开文件` 按钮后，点击加载工作区
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\15.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\15.png" />
 
 
 
 - 选择文件路径后，点击打开按钮
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\16.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\16.png" />
 
 
 
 - 加载完成
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\9.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\9.png" />
 
 ---
 
-  [← Previous Page](./2-interface_description.md) | [Next Page →](./4-quickMove.md)
+  [← Previous Page](./2-interface_description.md) | [Next Page →](./4-autofill.md)
 

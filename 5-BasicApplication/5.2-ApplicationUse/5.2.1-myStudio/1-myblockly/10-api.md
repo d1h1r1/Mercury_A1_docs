@@ -367,14 +367,13 @@
 
 **设置坐标**
 
-- **原型**：`send_coords（coords,speed,mode）`
+- **原型**：`send_coords(coords,speed,mode)`
 
 - **接口说明**：将所有坐标发送至机械臂。
 
 - **参数**
 - `coords`：坐标值列表（`List[float]`）
    - `speed`: (`int`) 0 ~ 100
-   - `mode`: (`int`): `0` - 角度（默认），`1` - 线性
 
 
 

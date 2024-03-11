@@ -25,10 +25,12 @@
 - 点击设置，输入您的 API Key，点击保存
 
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\2.png" />
-
-
-
+  
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\3.png" />
+
+
+
+  
 
 
 
@@ -38,50 +40,63 @@
 
 
 
-- 点击自然语言，尝试输入指令：机械臂回到零点，5秒后，关节一 移动到30度的位置。
+- 点击`ChatGPT`，尝试输入指令：关节一 移动到30度的位置。
 
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\4.png" />
 
-
-
-- 等待生成积木块
-
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\5.png" />
 
-- 生成完毕
 
 
+- 点击`生成` 按钮
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\6.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_btn.png" />
 
+  等待ChatGPT响应
 
-
-
-
-
-
-
-
-#### 使用语音指令
-
-- 点击语音
-
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\7.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_generate.png" />
 
 
 
 
 
-- 点击开始录制（这个操作需要操作系统给予麦克风权限）
+- 代码生成完毕
 
-- 尝试说出指令：机械臂回零，关节一移动到 30度的位置
+  <img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_success.png'/>
 
-- 点击结束录制
 
-  查看录制结果输出
 
-- 点击确认
-- 等待积木块生成
+
+
+#### 如果您不想输入文本，可以使用我们的语音识别功能
+
+
+
+- 单击`语音录制`按钮（需要系统的麦克风权限）。
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_btn.png" />
+  
+  语音录制中！现在可以说出指令（例如：将关节1移动到30度的位置）
+  
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\recording.png" />
+  
+  
+
+- 说完指令后，单击`结束录制`按钮，等待chatGPT的响应。
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_record_response.png" />
+
+    语音识别成功，从chatGPT获取了响应。
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_response.png" />
+
+
+
+- 现在可以点击`生成` 按钮生成代码了
+
+
+
+
 
 
 

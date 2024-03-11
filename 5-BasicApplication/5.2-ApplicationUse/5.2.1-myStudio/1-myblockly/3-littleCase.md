@@ -10,9 +10,9 @@ Learn how to use `myBlockly` for graphical programming through this case;
 
 
 
-![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\1.png)
+<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\1.png'/>
 
-![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\2.png)
+<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\2.png'/>
 
 
 

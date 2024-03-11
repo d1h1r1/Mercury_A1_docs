@@ -4,7 +4,7 @@
 
 >注意：使用 chatGPT前， 用户需要有chatGPT 的账号并申请openAI 提供的 API Key
 >
->注册账号地址：[OpenAI Login App](https://auth.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid email profile offline_access model.request model.read organization.read organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchat.openai.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=2cbb48ee-65ab-4a69-a1b5-51f130e0271f&prompt=login&screen_hint=signup&state=pFxve23k5CghfLP7mYl8xgW4T6wx--YyN06pyXBaPPA&code_challenge=a_IIW1KiZEc-5YrXUkTOtFKpYAJYA3XFdjCE-wUzTxA&code_challenge_method=S256)
+>注册账号地址：[OpenAI Login App](https://chat.openai.com/auth/login)
 >
 >申请API Key 地址：[API keys - OpenAI API](https://platform.openai.com/api-keys)
 >

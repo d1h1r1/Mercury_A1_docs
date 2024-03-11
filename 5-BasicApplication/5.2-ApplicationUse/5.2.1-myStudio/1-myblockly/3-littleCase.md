@@ -12,11 +12,13 @@
 
 ![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\1.png)
 
-![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\2.png)
+![](..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\3d_view.png)
 
 
 
-点击 3D视图面板的 `->` 按钮，可以关闭 3D视图面板
+- 1：关闭三维视图面板：单击三维视图面板的“>>”按钮关闭三维视图。
+- 2：点击四个按钮可以切换摄像头的位置。
+- 3：未连接到机器时，机器人的角度和坐标信息默认设置为零，连接到机器后会自动获取数据。
 
 
 

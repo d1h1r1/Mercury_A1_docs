@@ -6,7 +6,7 @@ This chapter learns to use chatGPT to generate building blocks
 >
 >Registered account address: [OpenAI Login App](https://chat.openai.com/auth/login)
 >
->Apply for API Key address: [API keys - OpenAI API](https://platform.openai.com/api-keys)
+>Create API Key address: [API keys - OpenAI API](https://platform.openai.com/api-keys)
 
 
 

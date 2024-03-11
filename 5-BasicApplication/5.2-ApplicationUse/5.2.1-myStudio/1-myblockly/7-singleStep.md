@@ -8,13 +8,13 @@
 
 **第一步：**拖动几个积木块进入工作区
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\6\1.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\singleStep\1.png" />
 
 
 
 **第二部：**选中 设置颜色积木块，观察到 **单步执行** 按钮已被解锁（颜色变为了深色）
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\6\2.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\singleStep\2.png" />
 
 
 

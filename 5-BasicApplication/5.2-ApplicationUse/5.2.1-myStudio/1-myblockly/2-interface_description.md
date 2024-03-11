@@ -1,6 +1,6 @@
 ## 界面介绍
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\2\1.png" style="zoom: 67%;" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\interface_description\1.png" style="zoom: 67%;" />
 
 
 

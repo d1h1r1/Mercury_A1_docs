@@ -103,7 +103,7 @@
 
 ---
 
-[← Previous Page](./4-quickMove.md) | [Next Page →](./6-singleStep.md)
+[← Previous Page](./6-useCoords.md) | [Next Page →](./8-singleStep.md)
 
 
 

@@ -37,4 +37,4 @@
 
 ---
 
-[← Previous Page](./3-littleCase.md) | [Next Page →](./5-chatGPT.md)
+[← Previous Page](./4-autofill.md) | [Next Page →](./6-useCoords.md)

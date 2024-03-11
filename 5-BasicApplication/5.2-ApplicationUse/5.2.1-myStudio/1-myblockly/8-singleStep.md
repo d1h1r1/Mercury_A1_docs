@@ -23,7 +23,7 @@
 
 ---
 
-[← Previous Page](./5-chatGPT.md) | [Next Page →](./7-program.md)
+[← Previous Page](./7-chatGPT.md) | [Next Page →](./9-program.md)
 
 
 

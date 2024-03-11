@@ -38,4 +38,4 @@
 
 ---
 
-[← Previous Page](./6-singleStep.md) | [Next Page →](./8-gripperUse.md)
+[← Previous Page](./8-singleStep.md) | [Next Page →](./10-gripperUse.md)

@@ -16,7 +16,9 @@ Learn how to use `myBlockly` for graphical programming through this case;
 
 
 
-Click the `->` button of the 3D view panel to close the 3D view panel.
+- 1: close 3D view panel:Click the `>>` button of the 3D view panel to close the 3D view panel.
+- 2: click the four button can switch camera position.
+- 3: the angles and coordinates information of the robot are set to zero by default when not connected to the machine, and data will be automatically obtained after connecting to the machine.
 
 
 
@@ -37,11 +39,8 @@ Click the `->` button of the 3D view panel to close the 3D view panel.
 
 
 
-
-
-  and Set Sleep time to 10 s
-
-    <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\6.png" style="zoom:150%;" />
+- and Set Sleep time to 10 s
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\6.png" style="zoom:150%;" />
 
 
 

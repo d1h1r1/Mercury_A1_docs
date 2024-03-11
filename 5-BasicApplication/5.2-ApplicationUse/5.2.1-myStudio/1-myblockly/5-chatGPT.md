@@ -10,7 +10,7 @@ This chapter learns to use chatGPT to generate building blocks
 
 
 
-#### Use natural language instructions
+#### Use chatGPT
 
 - Click the `chatGPT` button to open the GPT panel
 
@@ -21,13 +21,17 @@ This chapter learns to use chatGPT to generate building blocks
 
 
 
-- Click Settings, enter your API Key, and click Save
+- Click `Settings`, enter your API Key, and click `Save` button to config you API key.
 
+  > If you don't have an API key, you can click the `Get API Key`button below to jump to the openAI official website to create and get an API Key
+  
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\2.png" />
-
-
-
+  
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\3.png" />
+
+
+
+   
 
 
 
@@ -37,51 +41,76 @@ This chapter learns to use chatGPT to generate building blocks
 
 
 
-- Click on Natural Language and try to enter the command: joint 1 moves to the 30-degree position.
+- Click `ChatGPT` and try to enter the command: move joint 1  to the 30 degree position.
 
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\4.png" />
-
-
-
-- Waiting for blocks to be generated
-
+  
   <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\5.png" />
+  
+  
 
 
 
+- Click the `Generate` button and wait for chatGPT to generate code
 
-- Generation completed
-
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\6.png" />
-
-
-
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_btn.png" />
+  
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_generate.png" />
 
 
+- Successfully generated code
 
-
-
-
-
-
-
-
-#### Use voice commands
-
-- click to Record
-
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\7.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\generate_success.png" />
 
 
 
 
 
-- Click to start recording (this operation requires microphone permission from the operating system)
-- Try to say the command: once the joint moves to the 30-degree position
-- Click to end recording
-- View recording result output
-- Click to confirm
-- Waiting for building blocks to be generated
+
+
+##### If you don't want to input text, you can use our voice recognition function
+
+- click  `Record` button(Require microphone permission from the system)
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_btn.png" />
+  
+  Recording！Now speak something(e.g.move joint 1 to a 30 degree position)
+  
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\recording.png" />
+  
+  
+  
+  
+
+- After speaking the instructions, click the `Stop Record` button,and waiting for a response from chatGPT.
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\waiting_record_response.png" />
+
+  Speech recognition successful.Get a response from chatGPT.
+
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\5\record_response.png" />
+
+  
+
+- Now you can click `Generate` to generate code 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

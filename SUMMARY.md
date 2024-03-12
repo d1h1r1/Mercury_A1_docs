@@ -25,17 +25,13 @@
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
 * [5 Basic Application](5-BasicApplication/README.md)
-  * [5.1 miniRoboflow](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
-    * [1 Drag & Play](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.1.1-micro_controller.md) <br>
-    * [2 Joint Calibration](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.2.1-micro_controller.md) <br>
-    * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
-    * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
+  * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
-    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-myblockly/README.md)
-    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
+    * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.1-myPanel/README.md)
+    <!-- * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/README.md) -->
   * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
-    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
-
+    * [1 firmware update info](5-BasicApplication/5.3-FirmwareUse/1-firmware.md)
+    * [1 how to burn firmware](5-BasicApplication/5.3-FirmwareUse/2-burn_firmware.md)
 * [6 SDK Development](6-SDKDevelopment/README.md)
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)
     * [1 Environment Building](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/1_download.md)

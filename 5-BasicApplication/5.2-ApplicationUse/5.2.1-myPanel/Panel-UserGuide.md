@@ -13,7 +13,19 @@ Applicable equipment:
 
 ## 2 How to use it
 
-After ensuring that your machine has been configured with the panel to start, run the panel when it starts. When the panel is run, the user can intuitively see the button that can be clicked and the corresponding comment. The default startup is the power-on state (the rbg light at the end of the power-on state will be on). The gray triangle in the upper left corner of the interface is to return to the previous interface, and the x in the upper right corner is to close the interface.
+We have installed the panel in the system, and there is a shortcut on the desktop as shown in the figure.
+
+![pic](./resources/En/panel.png)
+
+Click the icon to run panel, and a message box will pop up in the upper right corner of the desktop (if it is opened, click to close it).
+
+![pic](./resources/En/panelopen.png)
+
+Click to close panel again, and a message box pops up in the upper right corner of the desktop.
+
+![pic](./resources/En/panelclose.png)
+
+ When the panel is run, the user can intuitively see the button that can be clicked and the corresponding comment. The default startup is the power-on state (the rbg light at the end of the power-on state will be on). The gray triangle in the upper left corner of the interface is to return to the previous interface, and the x in the upper right corner is to close the interface.
 
 ### 2.1 Drag & Play
 Click drag to teach in the main interface to enter the drag to teach interface.

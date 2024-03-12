@@ -8,13 +8,13 @@ The so-called `One-step` execution refers to: execution of a single building blo
 
 **Step 1:** Drag a few building blocks into the workspace
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\6\1.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\singleStep\1.png" />
 
 
 
 **Part 2:**Select the Set Color building block and observe that the **Single Step** button has been unlocked (the color has changed to dark)
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\6\2.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\singleStep\2.png" />
 
 
 

@@ -8,19 +8,19 @@
 
 **Step 1:** Make sure the robotic arm is connected
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\1.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\1.png" />
 
 
 
 **Step 2:**Click the **Quick Move** button to open the **Quick Move** panel and wait for the robot data to return
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\2.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\2.png" />
 
 
 
 The data is returned as follows (if there is no data, please check whether the robotic arm is connected and whether the robotic arm is normal)
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\3.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\3.png" />
 
 
 
@@ -28,7 +28,7 @@ The data is returned as follows (if there is no data, please check whether the r
 
 **Step 3:** Try clicking the `-` / `+` buttons to control different joints of the robotic arm.
 
-<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\4\4.png" />
+<img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\quickMove\4.png" />
 
 
 

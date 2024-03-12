@@ -10,9 +10,9 @@ Learn how to use `myBlockly` for graphical programming through this case;
 
 
 
-<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\1.png'/>
+<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\1.png'/>
 
-<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\2.png'/>
+<img src='..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\2.png'/>
 
 
 
@@ -28,19 +28,19 @@ Learn how to use `myBlockly` for graphical programming through this case;
 
 - Open the toolbox category `MDI Control` and drag the `Send Angles` block to the workspace; this block is used to set the angle value of the robotic arm. When the angle values are all zero, it means controlling the robotic arm to return to the zero point. ;Speed defaults to 20;
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\3.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\3.png" style="zoom:150%;" />
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\4.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\4.png" style="zoom:150%;" />
 
 
 
 - Open the toolbox category `Time`, drag the `Sleep` building block to the workspace; and set the sleep time to 10 seconds;
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\5.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\5.png" style="zoom:150%;" />
 
 
 
 - and Set Sleep time to 10 s
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\6.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\6.png" style="zoom:150%;" />
 
 
 
@@ -50,15 +50,15 @@ Learn how to use `myBlockly` for graphical programming through this case;
 
 - Open the toolbox category `MDI Control`, drag the `Send Angles` building block to the workspace; set J1 to 20;
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\7.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\7.png" style="zoom:150%;" />
 
 - Open the toolbox category `Time`, drag the `Sleep` building block to the workspace; and set the sleep time to 5 seconds;
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\8.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\8.png" style="zoom:150%;" />
 
 - Open the toolbox category `MDI Control`, drag the `Send Angles` building block to the workspace without changing any parameters;
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\9.png" style="zoom:150%;" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\9.png" style="zoom:150%;" />
 
 
 
@@ -89,13 +89,13 @@ myBlockly supports saving and loading workspaces
 
 - Click the `File` button and a drop-down menu will appear.
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\10.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\10.png" />
 
 
 
 - After clicking the `Save` button, a pop-up window will appear. Click the `Save Workspace` button in it.
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\11.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\11.png" />
 
 
 
@@ -113,18 +113,18 @@ myBlockly supports saving and loading workspaces
 
 
 - Click the `File` button and a drop-down menu will appear.
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\10.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\10.png" />
 
 
 
 - Click the `Create` button, a warning box will pop up, click `Ok`.
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\13.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\13.png" />
 
 
 
 - Created
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\14.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\14.png" />
 
 
 
@@ -137,7 +137,7 @@ myBlockly supports saving and loading workspaces
 - Click the `File` button and a drop-down menu will appear
 
 - After clicking the `Open File` button, click Load Workspace
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\15.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\15.png" />
 
 
 
@@ -146,7 +146,7 @@ myBlockly supports saving and loading workspaces
 
 - Loaded
 
-  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\3\9.png" />
+  <img src="..\..\..\..\resources\5-BasicApplication\5.2-ApplicationUse\5.2.1-mystudio\1-myblockly\images\littleCase\9.png" />
 
 ---
 

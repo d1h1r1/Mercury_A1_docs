@@ -1,6 +1,6 @@
-#Mercury Panel 使用指南
+# Mercury Panel 使用指南
 
-##1 Mercury Panel简介
+## 1 Mercury Panel简介
 
 Mercury Panel是一款通过触摸机械臂底座的cm4对水星机械臂进行控制的应用。它的功能有坐标控制、角度控制、拖动示教等），便于操作人员与大象机器人进行交互，正确使用大象机器人。
 
@@ -11,11 +11,23 @@ Mercury Panel是一款通过触摸机械臂底座的cm4对水星机械臂进行�
 
 **使用之前请务必下载更新atom和basic固件**
 
-##2 如何使用
+## 2 如何使用
 
-在确保了你的机器已经配置panel的开机自启后，开机即运行panel。运行panel时，用户能直观的看到可以点击的按钮以及对应的注释，开机默认为上电状态（上电状态末端rbg灯会亮）。界面左上角的灰色三角为返回上一界面，右上角的×为关闭界面，
+我们已在系统安装好panel，桌面有快捷方式如图所示。
 
-###2.1 拖动示教
+![pic](./resources/panel.png)
+
+点击图标运行panel，桌面右上角有消息框弹出(若已开启，点击即关闭)，
+
+![pic](./resources/panelopen.png)
+
+再次点击关闭panel，桌面右上角有消息框弹出。
+
+![pic](./resources/panelclose.png)
+
+运行panel时，用户能直观的看到可以点击的按钮以及对应的注释，开机默认为上电状态（上电状态末端rbg灯会亮）。界面左上角的灰色三角为返回上一界面，右上角的×为关闭界面，
+
+### 2.1 拖动示教
 点击主界面的拖动示教进入拖动示教界面。
 
 ![pic](./resources/case/main1.png)
@@ -39,7 +51,7 @@ Mercury Panel是一款通过触摸机械臂底座的cm4对水星机械臂进行�
 ![pic](./resources/case/dragplaycontinue.png)
 
 
-###2.2 运动控制
+### 2.2 运动控制
 
 点击主界面的快速移动进入快速移动界面，进入快速移动界面选择角度控制或者坐标控制。
 
@@ -58,7 +70,7 @@ Mercury Panel是一款通过触摸机械臂底座的cm4对水星机械臂进行�
 ![pic](./resources/case/freemove.png)
 ![pic](./resources/case/freemove1.png)
 
-###2.3 整机运行状态
+### 2.3 整机运行状态
 点击主界面的电机状态进入电机状态界面，查看电机连接状态，通过全部锁紧和全部放松可以对机械臂整体进行放松和锁紧操作。
 
 ![pic](./resources/case/main3.png)

@@ -62,4 +62,4 @@ We greatly appreciate you taking the time to read the Mercury A1 user manual. We
 ----
 If you have already read all the content in this chapter, please proceed to the next chapter.<br>
 
-[← Previous Chapter](../../1-ProductIntroduction/README.md)| [Next Chapter →](../../3-UserNotes/320_M5/REMADE.md)
+[← Previous Chapter](../2-ProductFeature/2.5-CoordinateSystem.md)| [Next Chapter →](../3-UserNotes\3.1-SafetyInstruction.md)

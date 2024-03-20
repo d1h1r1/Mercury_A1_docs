@@ -29,16 +29,7 @@
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
 * [5 Basic Application](5-BasicApplication/README.md)
-<<<<<<< HEAD
-  
-  * [5.1 miniRoboflow](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
-    * [1 Drag & Play](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.1.1-micro_controller.md) <br>
-    * [2 Joint Calibration](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.2.1-micro_controller.md) <br>
-    * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
-    * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
-=======
   * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
->>>>>>> 8f7d531bd1384aa5b0729d96f23baf73fe8f9cb4
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
     * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.1-myPanel/README.md)
     <!-- * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/README.md) -->

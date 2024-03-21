@@ -31,24 +31,26 @@ Mercury Panel是一款通过触摸机械臂底座的cm4对水星机械臂进行�
 点击主界面的拖动示教进入拖动示教界面。
 
 ![pic](./resources/case/main1.png)
-
-进入拖动示教界面机械臂整体放松，移动到示教起点。
-
 ![pic](./resources/dragplay.png)
 
-点击开始录制，录制时顶部会实时显示录制时长（录制时长不得超过60秒，否则有弹窗警告，需要退出拖动示教界面重新进入），拖动机械臂录制点位，点击结束录制，机械臂锁紧，录制完成。
+点击开始录制，弹窗提醒即将放松机械臂，点击确定，放松机械臂，开始拖动录制示教点位。录制时顶部会实时显示录制时长（录制时长不得超过60秒，否则有弹窗警告），录制完成点击结束录制，机械臂锁紧。
+
+掉电情况下点击录制会提示请先上电，点击确定即可。
 
 ![pic](./resources/case/dragplaybegin.png)
 ![pic](./resources/case/dragplayend.png)
 
-录制过程中点击暂停录制后机械臂整体锁紧，继续录制点位点击继续录制。
+点击单次执行，播放一次录制完成的动作；点击持续执行，循环播放录制动作。
+
+![pic](./resources/case/dragplayexecute.png)
+
+机械臂运动过程中点击停止，机械臂停止运动，且清除已录制点位。
+
+![pic](./resources/case/dragplaystop.png)
+
+机械臂运动过程中点击暂停，机械臂停止运动，暂停按钮变为恢复，点击恢复机械臂继续沿着之前的断点运动。
 
 ![pic](./resources/case/dragplaypause.png)
-
-点击单次执行，播放一次录制完成的动作；点击持续执行，循环播放录制动作，点击停止，执行完当前动作后停止播放。
-
-![pic](./resources/case/dragplayrecord.png)
-![pic](./resources/case/dragplaycontinue.png)
 
 
 ### 2.2 运动控制
@@ -90,16 +92,12 @@ IO状态界面设置引脚高低电平暂未开发。
 
 ![pic](./resources/case/ioset.png)
 
-监听模式暂未开发。
-
-![pic](./resources/case/settingsmonitor.png)
-
 点击电源->开，上电，上电过程需等待7s；点击电源->关，掉电，掉电过程需等待3秒。
 
 ![pic](./resources/case/poweron.png)
 ![pic](./resources/case/poweroff.png)
 
-点击快速测试->多动，机械臂开始一轮多个点位的运动；点击快速测试->老化，机械臂开始循环一组大幅度点位的运动，再次点击老化，机械臂进行完当前这轮动作后停止。
+点击快速测试->多动，机械臂开始一轮多个点位的运动，按钮变为停止，点击停止，机械臂停止运动；点击快速测试->老化，机械臂开始循环一组大幅度点位的运动，按钮变为停止，点击停止，机械臂进行完当前这轮动作后停止运动。
 
 点击黄色小三角，翻页。
 
@@ -121,11 +119,24 @@ IO状态界面设置引脚高低电平暂未开发。
 ![pic](./resources/case/calibrate.png)
 ![pic](./resources/calibrate.png)
 
-Log界面暂未开发。
-
-![pic](./resources/case/settingsnextlog.png)
-
 点击关于进入关于界面，查看应用版本。
 
 ![pic](./resources/case/about.png)
 ![pic](./resources/about.png)
+
+### 2.3 机械臂状态保护提示
+Panel运行过程中会有保护机制检测，触发后会弹窗提示。
+
+例如：
+
+关节超出限位、电机电压不足、电压过高、电机驱动温度高、电机温度过高、电机电流过大、电机通讯错误、电机短路。
+
+当出现超出限位的情况，点击超限提醒弹窗上的回零，此时弹窗提示等待机械臂回到零点，运动停止后点击等待提示弹窗上的确定，可以继续控制机械臂。若直接点击确定，则无法控制机械臂。
+
+![pic](./resources/case/limits.jpg)
+
+当出现超出限位之外的报错，弹窗只有一个按钮"恢复"，且之后机械臂无法控制，需要掉电重新上电。
+
+![pic](./resources/case/protectexample.jpg)
+
+

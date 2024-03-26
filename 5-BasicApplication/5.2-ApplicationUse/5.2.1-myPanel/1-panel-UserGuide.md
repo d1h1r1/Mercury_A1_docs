@@ -31,24 +31,26 @@ Click to close panel again, and a message box pops up in the upper right corner 
 Click drag to teach in the main interface to enter the drag to teach interface.
 
 ![pic](./resources/En/case/main1.png)
-
-Enter the drag teaching interface and relax the mechanical arm as a whole, and move to the teaching starting point.
-
 ![pic](./resources/En/dragplay.png)
 
-Click to start recording, the recording time will be displayed on the top in real time when recording (the recording time shall not exceed 60 seconds, otherwise there will be a pop-up warning, you need to exit the drag teaching interface and re-enter), drag the recording point of the mechanical arm, click to end recording, the mechanical arm will be locked, and the recording will be completed.
+Click to start recording and pop-up window will remind you that the robot arm is about to be relaxed. Click OK to relax the robot arm and start dragging the recording teaching point. When recording, the recording time will be displayed on the top in real time (the recording time shall not exceed 60 seconds, otherwise there will be a pop-up warning), click to end the recording after recording, and the mechanical arm will be locked.
+
+If you click Record in case of power failure, the system prompts you to power on first. Click OK.
 
 ![pic](./resources/En/case/dragplaybegin.png)
 ![pic](./resources/En/case/dragplayend.png)
 
-Click to pause the recording process, and then lock the mechanical arm as a whole. Click to continue recording.
+Click Single execution to play a recorded action; Click Continue to play the recording action in a loop.
+
+![pic](./resources/case/dragplayexecute.png)
+
+Click Stop during the movement of the robot arm, the robot arm stops moving, and the recorded point is cleared.
+
+![pic](./resources/En/case/dragplaystop.png)
+
+Click pause during the movement of the mechanical arm, the mechanical arm stops moving, the pause button changes to resume, and the mechanical arm continues to move along the previous break point.
 
 ![pic](./resources/En/case/dragplaypause.png)
-
-Click Single execution to play a recorded action; Click Continue to play the recording action in a loop. Click Stop to stop playing after executing the current action.
-
-![pic](./resources/En/case/dragplayrecord.png)
-![pic](./resources/En/case/dragplaycontinue.png)
 
 
 ### 2.2 Motion control
@@ -91,16 +93,7 @@ IO status interface setting pin high and low level has not been developed.
 
 ![pic](./resources/En/case/ioset.png)
 
-The monitor mode is not yet developed.
-
-![pic](./resources/En/case/settingsmonitor.png)
-
-Click Power -> On, power on, wait 7s for the power-on process; Click Power -> Power Off, power off, power off process wait 3 seconds.
-
-![pic](./resources/En/case/poweron.png)
-![pic](./resources/En/case/poweroff.png)
-
-Click quick test -> Multi-motion, the robot arm starts a round of multi-point movement; Click Quick Test -> Aging, the robot arm starts to cycle a set of large point movements, click aging again, and the robot arm stops after completing the current round of action.
+Click Quick test -> Multi-action, the robot arm starts a round of movement of multiple points, the button changes to stop, click stop, the robot arm stops moving; Click Quick Test -> Aging, the robot arm starts to cycle a group of large point movements, the button changes to stop, click stop, the robot arm stops after completing the current round of action.
 
 Click the yellow triangle and turn the page.
 
@@ -122,12 +115,22 @@ Click Calibrate to enter the calibration screen. You can perform a psychic calib
 ![pic](./resources/En/case/calibrate.png)
 ![pic](./resources/En/calibrate.png)
 
-The Log interface is not developed yet.
-
-![pic](./resources/En/case/settingnextlog.png)
-
 Click About to enter the About screen to view the application version.
 
 ![pic](./resources/En/case/about.png)
 ![pic](./resources/En/about.png)
 
+### 2.3 Mechanical arm status protection prompts
+There will be a protection mechanism detection during the operation of Panel, and a pop-up prompt will be displayed after it is triggered.
+
+For example:
+
+Joint out of limit, motor voltage is insufficient, voltage is too high, motor drive temperature is high, motor temperature is too high, motor current is too large, motor communication error, motor short circuit.
+
+When the limit is exceeded, click the return to zero on the overlimit reminder pop-up window. At this time, the pop-up window prompts to wait for the robot arm to return to zero. After the movement stops, click the OK on the pop-up window to continue to control the robot arm. If you click OK directly, you cannot control the robot arm.
+
+![pic](./resources/En/case/limits.jpg)
+
+When an error is reported outside the limit, the popup window has only one button to "recover", and then the robot arm cannot be controlled and needs to be powered down again.
+
+![pic](./resources/En/case/protectexample.jpg)

@@ -29,27 +29,22 @@
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
 * [5 Basic Application](5-BasicApplication/README.md)
-  
-  * [5.1 miniRoboflow](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
-    * [1 Drag & Play](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.1.1-micro_controller.md) <br>
-    * [2 Joint Calibration](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.2.1-micro_controller.md) <br>
-    * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
-    * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
+  * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
-    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-myblockly/README.md)
-    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
+    * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.1-myPanel/1-panel-UserGuide.md)
+    <!-- * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/README.md) -->
   * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
-    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
-
+    * [1 firmware update info](5-BasicApplication/5.3-FirmwareUse/1-firmware.md)
+    * [1 how to burn firmware](5-BasicApplication/5.3-FirmwareUse/2-burn_firmware.md)
 * [6 SDK Development](6-SDKDevelopment/README.md)
   
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)
-    * [1 Environment Building](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/1_download.md)
-    * [2 Introduction to API](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/2_API.md)
-    * [3 TCP/IP Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/3_TCPIP.md)
-    * [4 Drag to teach](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/4_drag.md)
-    * [5 Handle Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/5_Handle_control.md)
-    * [6 Videos and Codes for Display](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/5_example.md)
+    * [1 Environment Building](./6-SDKDevelopment/6.1-Python/6.1.1-EnvironmentConfiguration.md)
+    * [2 Introduction to API](./6-SDKDevelopment/6.1-Python/6.1.2-ApplicationBasePython.md)
+    * [3 TCP/IP Control](./6-SDKDevelopment/6.1-Python/6.1.3-TCPIP.md)
+    <!-- * [4 Drag to teach](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/4_drag.md) -->
+    <!-- * [5 Handle Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/5_Handle_control.md) -->
+    <!-- * [6 Videos and Codes for Display](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/5_example.md) -->
   * [6.2 Robot Operating System 1 (ROS1) ](11-ApplicationBaseROS/11.1-ROS1/README.md)
     * [1 Environment Building](11-ApplicationBaseROS/11.1-ROS1/11.1.1-EnvironmentBuilding.md)
     * [2 ROS basics](11-ApplicationBaseROS/11.1-ROS1/11.1.2-ROS_Basics.md)

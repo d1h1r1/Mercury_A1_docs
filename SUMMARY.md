@@ -32,7 +32,7 @@
   * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
   * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
     * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.1-myPanel/1-panel-UserGuide.md)
-    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/README.md)
+    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/README.md)
   * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
     * [1 firmware update info](5-BasicApplication/5.3-FirmwareUse/1-firmware.md)
     * [1 how to burn firmware](5-BasicApplication/5.3-FirmwareUse/2-burn_firmware.md)

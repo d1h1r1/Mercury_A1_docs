@@ -42,7 +42,7 @@
         - [First Case](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/3-littleCase.md)
         - [Quickly fill](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/4-autofill.md)
         - [Use fast-moving](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/5-quickMove.md)
-        - [Use coordinate control](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/6-useCoords.md)
+        - [Use coordinate](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/6-useCoords.md)
         - [chatGPT](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/7-chatGPT.md)
         - [Run single block](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/8-singleStep.md)
         - [Program control](5-BasicApplication/5.2-ApplicationUse/5.2.2-myStudio/1-blockly/9-program.md)

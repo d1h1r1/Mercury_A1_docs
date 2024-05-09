@@ -25,16 +25,40 @@
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
 * [5 Basic Application](5-BasicApplication/README.md)
-  * [5.1 miniRoboflow](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
-    * [1 Drag & Play](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.1.1-micro_controller.md) <br>
-    * [2 Joint Calibration](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.2.1-micro_controller.md) <br>
-    * [3 Computer Connect](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.3.1-micro_controller.md) <br>
-    * [4 Robot Information](/5-BasicApplication/5.1-SystemUsageInstructions/320m5/4.2.4.1-micro_controller.md) <br>  
-  * [5.2 Application Use](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
-    * [1 Burn Firmware](5-BasicApplication/5.3-FirmwareUse/m5/2-burn_firmware.md)
-  * [5.3 Firmware Use](5-BasicApplication/5.3-FirmwareUse/5.3-FirmwareUse.md)
-    * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/320m5/README.md)
-    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
+  * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
+  * [5.2 软件的使用](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
+    * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.2-myPanel/1-panel-UserGuide.md)
+    * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/README.md)
+      * [机型选择](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/0-community/1-robot_choose.md)
+
+      * [功能选择](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/0-community/2-robot_function.md)
+
+      * [blockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/README.md)
+        - [blockly 首次使用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/1-blocklyFirstUse.md)
+        - [blockly 界面介绍](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/2-interfaceDescription.md)
+        - [控制机械臂回零](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/3-littleCase.md)
+        - [快速填入积木块数据](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/4-autofill.md)
+        - [学习使用快速移动](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/5-quickMove.md)
+        - [学习使用坐标控制](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/6-useCoords.md)
+        - [使用 chatGPT 与 blockly 进行交互](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/7-chatGPT.md)
+        - [单积木块执行](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/8-singleStep.md)
+        - [程序控制](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/9-program.md)
+        - [自适应夹爪的使用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/10-gripperUse.md)
+        - [吸泵的使用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/11-pumpUse.md)
+        - [吸泵的使用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/12-dragTeach.md)
+        - [积木块 API 详解](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/1-blockly/13-api.md)
+      * [快速移动](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/2-quickmove/2.1-quickmovefirstuse.md)
+      * [固件与应用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/README.md)
+        * [通用固件](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.1-firmware_currency.md)
+        * [功能应用](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.2-firmware_app.md)
+        * [文档手册](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.3-firmware_docs.md)
+        * [视频教程](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.4-firmware_video.md)
+        * [Github](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.5-firmware_github.md)
+        * [在线商城](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.6-firmware_shop.md)
+        * [联系我们](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/3-firmware/3.7-firmware_email.md)
+      * [设置](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/4-setting/4.1-setting_main.md)
+      * [扩展](./5-plugins/README.md)
+        * [网络服务器扩展](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/5-plugins/1-socket/5.1.1-socketfirstuse.md)
 
 * [6 SDK Development](6-SDKDevelopment/README.md)
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)

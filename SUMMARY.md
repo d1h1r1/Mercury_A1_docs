@@ -36,14 +36,14 @@
     * [1 myblockly](5-BasicApplication/5.2-ApplicationUse/5.2.1-myblockly/320m5/README.md)
     * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.2-mystudio/320m5/README.md)
 
-* [6 SDK Development](6-SDKDevelopment/README.md)
+* [6 SDK 开发指南](6-SDKDevelopment/README.md)
   * [6.1 Python](6-SDKDevelopment/6.1-ApplicationBasePython.md)
-    * [1 Environment Building](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/1_download.md)
-    * [2 Introduction to API](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/2_API.md)
-    * [3 TCP/IP Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/3_TCPIP.md)
-    * [4 Drag to teach](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/4_drag.md)
-    * [5 Handle Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/5_Handle_control.md)
-    * [6 Videos and Codes for Display](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/5_example.md)
+    * [1 环境搭建](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/1_download.md)
+    * [2 API说明](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/2_API.md)
+    * [3 TCP/IP 控制](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/3_TCPIP.md)
+    * [4 拖动示教](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/4_drag.md)
+    <!-- * [5 Handle Control](10-ApplicationBasePython/10.1_320_PI-ApplicationPython/5_Handle_control.md) -->
+    <!-- * [6 Videos and Codes for Display](10-ApplicationBasePython/10.2_320_M5-ApplicationPython/5_example.md) -->
   * [6.2 机器人操作系统 1 (ROS1) ](11-ApplicationBaseROS/11.1-ROS1/README.md)
     * [1 环境搭建](11-ApplicationBaseROS/11.1-ROS1/11.1.1-EnvironmentBuilding.md)
     * [2 ROS 基础](11-ApplicationBaseROS/11.1-ROS1/11.1.2-ROS_Basics.md)

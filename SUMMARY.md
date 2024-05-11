@@ -24,9 +24,9 @@
   * [4.2 Product Unboxing Guide](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
   * [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
-* [5 Basic Application](5-BasicApplication/README.md)
-  * [5.1 System instruction manual](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
-  * [5.2 软件的使用](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
+* [5 基础功能](5-BasicApplication/README.md)
+  * [5.1 系统使用说明](/5-BasicApplication/5.1-SystemUsageInstructions/5.1-SystemUsageInstructions.md) <br>
+  * [5.2 软件使用说明](5-BasicApplication/5.2-ApplicationUse/5.2-ApplicationUse.md)
     * [1 myPanel](5-BasicApplication/5.2-ApplicationUse/5.2.2-myPanel/1-panel-UserGuide.md)
     * [2 myStudio](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/README.md)
       * [机型选择](5-BasicApplication/5.2-ApplicationUse/5.2.1-myStudio/0-community/1-robot_choose.md)

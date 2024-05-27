@@ -1,6 +1,6 @@
 # First installation and use
 
-![1](../../resources/4-FirstInstallAndUse/1.jpg)
+<!-- ![1](../../resources/4-FirstInstallAndUse/1.jpg) -->
 
 - **Thank you for choosing our product**
   

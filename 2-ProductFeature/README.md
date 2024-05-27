@@ -1,6 +1,6 @@
 # Mercury A1 
 
-<img src="../../resources/8-FilesDownload/2-serialproduct/1.jpg " width="800" height="auto" />
+<!-- <img src="../../resources/8-FilesDownload/2-serialproduct/1.jpg " width="800" height="auto" /> -->
 
 ## 1 Profile
 

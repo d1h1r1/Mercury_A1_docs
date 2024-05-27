@@ -6,7 +6,7 @@ For the Mercury A1 model, we have launched software specifically designed for ro
 
 - [myPanel](./5.2.1-myPanel/README.md)
 
-    <br>myPanel is an application that controls the Mercury robot arm by touching the cm4 on the base of the robot arm. Its functions are coordinate control, Angle control, drag teaching, etc. which is convenient for operators to interact with elephant robots and correctly use elephant robots
+    <br>`myPanel` is an application that controls the Mercury robot arm by touching the cm4 on the base of the robot arm. Its functions are coordinate control, Angle control, drag teaching, etc. which is convenient for operators to interact with elephant robots and correctly use elephant robots
     <br>
 
 - [myStudio](./5.2.2-myStudio/README.md)

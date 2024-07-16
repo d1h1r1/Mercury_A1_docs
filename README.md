@@ -1,8 +1,10 @@
 ## Mercury A1_Gitbook
 
+<center>
 <img src =./resources/introduction/introduction-cn.png
-width ="500"  align = "center">
-
+width ="800"  align = "center">
+</center>
+<br>
 欢迎来到Elephant Robotics水星系列的世界——这里，创新与实用性交织，为具身智能和人形机器人研究提供了一个前所未有的通用硬件平台。我们自豪地呈现三个独特的产品型号，每个都以其卓越的特性，满足您在机器人研究和教育领域的多样化需求。
 
 &emsp;&emsp;水星X1轮式人形机器人：整机共19自由度，它结合了高性能移动底座与先进的双臂协同和感知能力，搭载英伟达Jetson边缘计算核心，和3D机器视觉，为机器人学和具身智能研究和开发提供了强大算力和硬件基础。

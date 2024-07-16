@@ -1,7 +1,10 @@
 # Mercury_A1_Gitbook
 
+<center>
 <img src =./resources/introduction/introduction-en.png
-width ="500"  align = "center">
+width ="800"  align = "center">
+</center>
+<br>
 
 Welcome to the world of Elephant Robotics Mercury series - where innovation and practicality intertwine to provide an unprecedented universal hardware platform for embodied intelligence and humanoid robot research. We are proud to present three unique product models, each with its excellent features to meet your diverse needs in the field of robotics research and education.
 

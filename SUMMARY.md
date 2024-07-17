@@ -8,6 +8,7 @@
   - [1.4 配件工具](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
 
 - [2 产品特点](2-ProductFeature/README.md)
+- [2 产品特点](2-ProductFeature/README.md)
 
   - [2.1 功能参数](2-ProductFeature/2.1-MachineSpecification.md)
   - [2.2 控制器参数](2-ProductFeature/2.2-ControlCoreParameter.md)
@@ -91,7 +92,7 @@
     - [3 API](12-ApplicationBaseCPlus/12.3-API.md)
     - [4 使用案例](12-ApplicationBaseCPlus/12.4-case.md)
 
-- [7 机器人使用示例](7-ExamplesRobotsUsing/7-ExamplesRobotsUsing.md)
+- [7 场景案例](7-ExamplesRobotsUsing/7-ExamplesRobotsUsing.md)
 
 - [8 资料下载](8-FilesDownload/README.md) 
 

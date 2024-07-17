@@ -1,32 +1,32 @@
 # Elephant Gitbook
 
-- [1 Product Introduction](1-ProductIntroduction/README.md)
+- [1 产品介绍](1-ProductIntroduction/README.md)
 
-  - [1.1 Design Philosophy](1-ProductIntroduction/1.1-DesignPhilosophy.md)
-  - [1.2 Suitable Users](1-ProductIntroduction/1.2-SuitableUsers.md)
-  - [1.3 Application Scenario](1-ProductIntroduction/1.3-ApplicationScenario.md)
-  - [1.4 Accessories Tools](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
+  - [1.1 设计理念](1-ProductIntroduction/1.1-DesignPhilosophy.md)
+  - [1.2 适合用户](1-ProductIntroduction/1.2-SuitableUsers.md)
+  - [1.3 应用场景](1-ProductIntroduction/1.3-ApplicationScenario.md)
+  - [1.4 配件工具](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
 
-- [2 Product Feature](2-ProductFeature/README.md)
+- [2 产品特点](2-ProductFeature/README.md)
 
-  - [2.1 Functional Parameters](2-ProductFeature/2.1-MachineSpecification.md)
-  - [2.2 Controller Parameters](2-ProductFeature/2.2-ControlCoreParameter.md)
-  - [2.3 Structural Parameters](2-ProductFeature/2.3-MechanicalStructureParameter.md)
-  - [2.4 Electronic Parameters](2-ProductFeature/2.4-ElectricalCharacteristicParameter.md)
-  - [2.5 Coordinate System](2-ProductFeature/2.5-CoordinateSystem.md)
+  - [2.1 功能参数](2-ProductFeature/2.1-MachineSpecification.md)
+  - [2.2 控制器参数](2-ProductFeature/2.2-ControlCoreParameter.md)
+  - [2.3 结构参数](2-ProductFeature/2.3-MechanicalStructureParameter.md)
+  - [2.4 电子参数](2-ProductFeature/2.4-ElectricalCharacteristicParameter.md)
+  - [2.5 坐标系](2-ProductFeature/2.5-CoordinateSystem.md)
 
-- [3 User Notes](3-UserNotes/3-UserNotes.md)
+- [3 用户须知](3-UserNotes/3-UserNotes.md)
 
-  - [3.1 Safety Instructions](3-UserNotes/3.1-SafetyInstruction.md)
-  - [3.2 Transport and Storage](3-UserNotes/3.2-TransportandStorage.md)
-  - [3.3 Maintenance and Care](/3-UserNotes/3.3-MaintenanceandCare.md)
-  - [3.4 FAQs](3-UserNotes/3.4-FAQsandSolutions.md)
+  - [3.1 安全守则](3-UserNotes/3.1-SafetyInstruction.md)
+  - [3.2 运输与储存](3-UserNotes/3.2-TransportandStorage.md)
+  - [3.3 维护和保养](/3-UserNotes/3.3-MaintenanceandCare.md)
+  - [3.4 常见问题解答](3-UserNotes/3.4-FAQsandSolutions.md)
 
-- [4 First Install and Use](4-FirstInstallAndUse/4-FirstInstallAndUse.md)
+- [4 首次安装及使用](4-FirstInstallAndUse/4-FirstInstallAndUse.md)
 
-  - [4.1 Product Standard List](4-FirstInstallAndUse/4.1-ProductStandardList.md)
-  - [4.2 Product Unboxing Guide](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
-  - [4.3 Power-on Test Guide](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
+  - [4.1 产品标准表](4-FirstInstallAndUse/4.1-ProductStandardList.md)
+  - [4.2 产品开箱指南](4-FirstInstallAndUse/4.2-ProductUnboxingGuide.md)
+  - [4.3 上电测试指南](4-FirstInstallAndUse/4.3-Power-onTestGuide.md)
 
 - [5 基础功能](5-BasicApplication/README.md)
 
@@ -86,21 +86,21 @@
     - [3 Rviz2 使用](11-ApplicationBaseROS/11.2-ROS2/11.2.3-Rviz2Introduction.md)
     - [4 基本功能案例](11-ApplicationBaseROS/11.2-ROS2/11.2.4-BasicFunction.md)
   - [6.4 C plus plus (C++)](6-SDKDevelopment/6.3-ApplicationBaseCPlus.md)
-    - [1 CPlus Download](12-ApplicationBaseCPlus/12.1-download.md)
-    - [2 build](12-ApplicationBaseCPlus/12.2-build.md)
+    - [1 CPlus 下载](12-ApplicationBaseCPlus/12.1-download.md)
+    - [2 构建](12-ApplicationBaseCPlus/12.2-build.md)
     - [3 API](12-ApplicationBaseCPlus/12.3-API.md)
-    - [4 example](12-ApplicationBaseCPlus/12.4-example.md)
+    - [4 使用案例](12-ApplicationBaseCPlus/12.4-case.md)
 
-- [7 Examples of Robots Using](7-ExamplesRobotsUsing/7-ExamplesRobotsUsing.md)
+- [7 机器人使用示例](7-ExamplesRobotsUsing/7-ExamplesRobotsUsing.md)
 
-- [8 资料下载](8-FilesDownload/README.md)
+- [8 资料下载](8-FilesDownload/README.md) 
 
-  - [8.1 Productin formation](8-FilesDownload/8.1-Productinformation.md)
-  - [8.2 Product Drawings](8-FilesDownload/8.2-ProductDrawings.md)
+  - [8.1 产品信息](8-FilesDownload/8.1-Productinformation.md)
+  - [8.2 产品图纸](8-FilesDownload/8.2-ProductDrawings.md)
   - [8.3 软件以及开源代码](8-FilesDownload/8.3-SoftwareDocumentation_zh.md)
   - [8.4 系统镜像资料](8-FilesDownload/8.4-SystemInformation_zh.md)
-  - [8.5 Publicity Material](/8-FilesDownload/8.5-PublicityMaterial.md)
+  - [8.5 宣传材料](/8-FilesDownload/8.5-PublicityMaterial.md)
 
-- [9 About Us](9-AboutUs/9-AboutUs.md)
-  - [9.1 Elephant Robotics](9-AboutUs/9.1-company.md)
-  - [9.2 Contact us](9-AboutUs/9.2-contact.md)
+- [9 关于我们](9-AboutUs/9-AboutUs.md)
+  - [9.1 大象机器人](9-AboutUs/9.1-company.md)
+  - [9.2 联系我们](9-AboutUs/9.2-contact.md)

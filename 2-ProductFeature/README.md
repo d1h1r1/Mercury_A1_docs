@@ -1,7 +1,5 @@
 ## Mercury A1
 
-<img src="../../resources/8-FilesDownload/2-serialproduct/1.jpg " width="800" height="auto" />
-
 ## 1 概况
 
  **Mercury A1** 拥有精致的结构和一体化设计，其最大臂展为450毫米，最大负载为1千克，重复定位精度为±0.05毫米。
@@ -15,18 +13,18 @@ Mercury A1重3.5千克，负载1千克，工作半径为450毫米。这款产品
     -  用户可以在快速启动学习后，通过myBlockly和拖动式教学轻松操作机器人。
     -  它支持ROS和MoveIt等开发系统。
 强大性能且配备两个屏幕
+ 
+-   **经济实惠**
+    -   它采用标准化的8小时工作制，以取代人类从事重复性和标准化的工作。
+    -   价值1万多元，降低成本，协同高效科研。
     
--   **Economical and cost-effective**
-    -   It adopts a standardized 8-hour working system so as to replace human in doing repetitive and standard jobs.
-    -   Worth over 10,000 RMB, it reduces costs and synergizes efforts for high-efficiency scientific research.
+-   **性能强大，配备两个屏幕**
+    -   采用无刷直流伺服，实现±0.5mm的重复定位精度。
+    -   机身配备两个屏幕，支持M5生态应用，有效拓展协同应用。
     
--   **Powerful performance and equipped with two screens**
-    -   It adopts a brushless DC servo so as to realize repeated positioning precision of ±0.5mm.
-    -   The body is equipped with two screens and supports M5 ecological applications, effectively expanding coordinative application.
-    
--   **On-in-all design and safe collaborative work**
-    -   With delicate structure, it optimizes space and integrates with application in a coordinated way.
-    -   It also has kinematics self-interference detection, which can effectively avoid motion collisions.
+-   **论全方位设计与安全协同工作**
+    -   结构精巧，优化空间，与应用协同集成。
+    -   它还具有运动学自干涉检测功能，可以有效避免运动碰撞。
 
 ## 3 应用
 
@@ -40,23 +38,23 @@ Mercury A1 不仅是生产工具，还是拓展想象力边界的工具。这意
 请根据您的兴趣和需求自由选择以下章节：
 
 <a DesignPhilosophy="my-paragraph-1"></a>
-[2.1-Machine specification](2.1.1-MachineSpecification.md)<br>
+[2.1-Machine specification](2.1-MachineSpecification.md)<br>
  在这一部分中，我们将描述产品的基本属性，如机器人描述负载、扭矩、定位精度、尺寸、功能支持和功率参数等的行业共识。<br>
 
 <a SuitableUsers="my-paragraph-2"></a>
-[2.2-Control core parameter](2.1.2-ControlCoreParameter.md)<br>
+[2.2-Control core parameter](2.2-ControlCoreParameter.md)<br>
 了解产品的主要控制参数，方便后期定制开发和使用。<br>
 
 <a ApplicationScenario="my-paragraph-3"></a>
-[2.3-Mechanical structure parameter](2.1.2-ControlCoreParameter.md)<br>
+[2.3-Mechanical structure parameter](2.3-ControlCoreParameter.md)<br>
 在这一部分中，我们将详细介绍产品机械结构的重要参数，并为客户提供相应的3D模型下载链接，以便客户更好地了解我们的产品<br>
 
 <a AccessoriesandTools="my-paragraph-4"></a>
-[2.4-Electrical characteristic parameter](2.1.4-ElectricalCharacteristicParameter.md)<br>
+[2.4-Electrical characteristic parameter](2.4-ElectricalCharacteristicParameter.md)<br>
 本章将为客户提供产品的电气特性参数，方便客户在后期定制开发和使用。<br>
 
 <a AccessoriesandTools="my-paragraph-4"></a>
-[2.5-Coordinate system](2.1.5-CoordinateSystem.md)<br>
+[2.5-Coordinate system](2.5-CoordinateSystem.md)<br>
 本节描述了产品的角度和坐标信息，并解释了支持的坐标系控制。同时，为计算相应坐标系提供了产品的相关参数，如DH参数等。
 请根据兴趣点击相应链接，以<br>
 
@@ -69,4 +67,4 @@ Mercury A1 不仅是生产工具，还是拓展想象力边界的工具。这意
 ----
 如果您已经阅读完本章所有内容，请继续下一章。<br>
 
-[← 上一页](../../2-ProductIntroduction/README.md)| [下一页 →](../../3-UserNotes\IssueFAQ/REMADE.md)
+[← 上一章](../1-ProductIntroduction/1-ProductIntroduction.md) | [下一章 →](../3-UserNotes/3-UserNotes.md)

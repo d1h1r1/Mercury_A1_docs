@@ -38,23 +38,23 @@ Mercury A1 不仅是生产工具，还是拓展想象力边界的工具。这意
 请根据您的兴趣和需求自由选择以下章节：
 
 <a DesignPhilosophy="my-paragraph-1"></a>
-[2.1-Machine specification](2.1-MachineSpecification.md)<br>
+[2.1-功能参数](2.1-MachineSpecification.md)<br>
  在这一部分中，我们将描述产品的基本属性，如机器人描述负载、扭矩、定位精度、尺寸、功能支持和功率参数等的行业共识。<br>
 
 <a SuitableUsers="my-paragraph-2"></a>
-[2.2-Control core parameter](2.2-ControlCoreParameter.md)<br>
+[2.2-控制器参数](2.2-ControlCoreParameter.md)<br>
 了解产品的主要控制参数，方便后期定制开发和使用。<br>
 
 <a ApplicationScenario="my-paragraph-3"></a>
-[2.3-Mechanical structure parameter](2.3-ControlCoreParameter.md)<br>
+[2.3-结构参数](2.3-ControlCoreParameter.md)<br>
 在这一部分中，我们将详细介绍产品机械结构的重要参数，并为客户提供相应的3D模型下载链接，以便客户更好地了解我们的产品<br>
 
 <a AccessoriesandTools="my-paragraph-4"></a>
-[2.4-Electrical characteristic parameter](2.4-ElectricalCharacteristicParameter.md)<br>
+[2.4-电子参数](2.4-ElectricalCharacteristicParameter.md)<br>
 本章将为客户提供产品的电气特性参数，方便客户在后期定制开发和使用。<br>
 
 <a AccessoriesandTools="my-paragraph-4"></a>
-[2.5-Coordinate system](2.5-CoordinateSystem.md)<br>
+[2.5-坐标系](2.5-CoordinateSystem.md)<br>
 本节描述了产品的角度和坐标信息，并解释了支持的坐标系控制。同时，为计算相应坐标系提供了产品的相关参数，如DH参数等。
 请根据兴趣点击相应链接，以<br>
 

@@ -1,6 +1,6 @@
 # Elephant Gitbook
 
-- [1 产品介绍](1-ProductIntroduction/README.md)
+- [1 产品介绍](1-ProductIntroduction/1-ProductIntroduction.md)
 
   - [1.1 设计理念](1-ProductIntroduction/1.1-DesignPhilosophy.md)
   <!-- - [1.2 适合用户](1-ProductIntroduction/1.2-SuitableUsers.md) -->

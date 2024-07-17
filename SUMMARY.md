@@ -1,11 +1,11 @@
 # Elephant Gitbook
 
-* [1 Product Introduction](1-ProductIntroduction/README.md)
+* [1 Product Introduction](1-ProductIntroduction/1-ProductIntroduction.md)
 
   * [1.1 Design Philosophy](1-ProductIntroduction/1.1-DesignPhilosophy.md)
-  * [1.2 Suitable Users](1-ProductIntroduction/1.2-SuitableUsers.md)
-  * [1.3 Application Scenario](1-ProductIntroduction/1.3-ApplicationScenario.md)
-  * [1.4 Accessories Tools](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md)
+  <!-- * [1.2 Suitable Users](1-ProductIntroduction/1.2-SuitableUsers.md) -->
+  * [1.2 Application Scenario](1-ProductIntroduction/1.3-ApplicationScenario.md)
+  <!-- * [1.4 Accessories Tools](1-ProductIntroduction/1.4-AccessoriesTools/1.4-AccessoriesTools.md) -->
 
 * [2 Product Feature](2-ProductFeature/README.md)
 
